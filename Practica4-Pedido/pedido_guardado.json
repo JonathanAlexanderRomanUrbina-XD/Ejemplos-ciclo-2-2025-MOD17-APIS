@@ -1,0 +1,20 @@
+{
+  "id" : 1001,
+  "cliente" : {
+    "id" : 501,
+    "nombre" : "Ana Martínez",
+    "correo" : "ana.martinez@esfe.edu.sv"
+  },
+  "productos" : [ {
+    "id" : 101,
+    "nombre" : "Panel Solar",
+    "categorias" : [ "Energía", "Renovable" ],
+    "precio" : 299.99
+  }, {
+    "id" : 102,
+    "nombre" : "Inversor Solar",
+    "categorias" : [ "Electrónica", "Energía" ],
+    "precio" : 499.5
+  } ],
+  "fecha" : "2025-09-03"
+}
